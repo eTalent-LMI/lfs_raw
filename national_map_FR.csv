@@ -1,4 +1,4 @@
-name,Province,Population,PIB,Emploi,Salaire_moyen,links_fr,DE_pct
+province,Titre,Population,PIB,Emploi,Salaire_moyen,links_fr,DE_pct
 Alberta,Alberta,4421876,347102000000,183500,83001.844,https://www.etalentcanada.ca/fr/donnees-sur-lemploi/alberta/,9.158515
 British Columbia,Colombie-Britannique,5147712,271789000000,325000,77851.844,https://www.etalentcanada.ca/fr/donnees-sur-lemploi/colombie-britannique/,16.220802
 Manitoba,Manitoba,1379263,68060000000,46900,70786.125,https://www.etalentcanada.ca/fr/donnees-sur-lemploi/manitoba/,2.3407867
