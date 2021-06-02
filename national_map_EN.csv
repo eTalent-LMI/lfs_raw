@@ -1,11 +1,11 @@
-Province,Population,GDP,Employment,Average_Salary,DE_pct
-Alberta,4421876,347102000000,183500,83001.844,9.158515
-British Columbia,5147712,271789000000,325000,77851.844,16.220802
-Manitoba,1379263,68060000000,46900,70786.125,2.3407867
-New Brunswick,781476,33568000000,27000,69322.438,1.3475744
-Newfoundland and Labrador,522103,34075000000,14700,73404.328,.73367935
-Nova Scotia,979351,41453000000,39100,68300.602,1.9514873
-Ontario,14734014,798213000000,906000,81331.211,45.218609
-Prince Edward Island,159625,6644000000,6300,59686.141,.31443402
-Québec,8574571,407590000000,421200,76529,21.022161
-Saskatchewan,1178681,86611000000,33800.004,75710.906,1.6869637
+Province,Population,GDP,Employment,Average_Salary,links_en,DE_pct
+Alberta,4421876,347102000000,183500,83001.844,https://www.etalentcanada.ca/employment-data/alberta/,9.158515
+British Columbia,5147712,271789000000,325000,77851.844,https://www.etalentcanada.ca/employment-data/british-columbia/,16.220802
+Manitoba,1379263,68060000000,46900,70786.125,https://www.etalentcanada.ca/employment-data/manitoba/,2.3407867
+New Brunswick,781476,33568000000,27000,69322.438,https://www.etalentcanada.ca/employment-data/new-brunswick/,1.3475744
+Newfoundland and Labrador,522103,34075000000,14700,73404.328,https://www.etalentcanada.ca/employment-data/newfoundland-and-labrador/,.73367935
+Nova Scotia,979351,41453000000,39100,68300.602,https://www.etalentcanada.ca/employment-data/nova scotia/,1.9514873
+Ontario,14734014,798213000000,906000,81331.211,https://www.etalentcanada.ca/employment-data/ontario/,45.218609
+Prince Edward Island,159625,6644000000,6300,59686.141,https://www.etalentcanada.ca/employment-data/prince-edward-island/,.31443402
+Québec,8574571,407590000000,421200,76529,https://www.etalentcanada.ca/employment-data/quebec/,21.022161
+Saskatchewan,1178681,86611000000,33800.004,75710.906,https://www.etalentcanada.ca/employment-data/saskatchewan/,1.6869637
