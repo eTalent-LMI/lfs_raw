@@ -1,14 +1,14 @@
 CNP,Profession,Emploi,Salaire_médian
-15,"Cadres supérieurs / cadres supérieures commerce, radiotélédiffusion et autres services**",77.363708,125007.99
+15,"Cadres supérieurs / cadres supérieures commerce, radiotélédiffusion et autres services**",77,125007.99
 211,Directeurs / directrices des services de génie,4400,124012.52
 213,Gestionnaires des systèmes informatiques,6100,125007.99
-601,Directeurs / directrices des ventes corporatives*,2140.9656,119995.18
+601,Directeurs / directrices des ventes corporatives*,2140,119995.18
 1123,"Professionnels / professionnelles en publicité, en marketing et en relations publiques",23600,72009.594
-1253,Techniciens / techniciennes à la gestion des documents*,415.09,63959.988
+1253,Techniciens / techniciennes à la gestion des documents*,415,63959.988
 2133,Ingénieurs électriciens et électroniciens / ingénieures électriciennes et électroniciennes,3700,108159.99
-2147,Ingénieurs informaticiens / ingénieures informaticiennes*,1258.7596,113380.79
-2148,Autres ingénieurs / ingénieures*,1903.5878,105767.99
-2161,"Mathématiciens / mathématiciennes, statisticiens / statisticiennes et actuaires*",366.68094,105996.78
+2147,Ingénieurs informaticiens / ingénieures informaticiennes*,1258,113380.79
+2148,Autres ingénieurs / ingénieures*,1903,105767.99
+2161,"Mathématiciens / mathématiciennes, statisticiens / statisticiennes et actuaires*",366,105996.78
 2171,Analystes et consultants / consultantes en informatique,28000,99054.281
 2172,Analystes de bases de données et administrateurs / administratrices de données,4900,88148.266
 2173,Ingénieurs / ingénieures et concepteurs / conceptrices en logiciel,6600,100005.38
@@ -17,15 +17,15 @@ CNP,Profession,Emploi,Salaire_médian
 2241,Technologues et techniciens / techniciennes en génie électronique et électrique,4700,77487.727
 2281,Techniciens / techniciennes de réseau informatique,2100,77442.805
 2282,Agents / agentes de soutien aux utilisateurs,14500,64955.609
-2283,Évaluateurs / évaluatrices de systèmes informatiques*,654.81976,70588.438
+2283,Évaluateurs / évaluatrices de systèmes informatiques*,654,70588.438
 4163,"Agents / agentes de développement économique, recherchistes et experts-conseils / expertes-conseils en marketing",5300,95259.945
-5223,Techniciens / techniciennes en graphisme**,180.55115,65385.473
-5224,Techniciens / techniciennes en radiotélédiffusion**,123.26559,61006.391
+5223,Techniciens / techniciennes en graphisme**,180,65385.473
+5224,Techniciens / techniciennes en radiotélédiffusion**,123,61006.391
 5241,Designers graphiques et illustrateurs / illustratrices,1900,60007.992
 7241,Électriciens / électriciennes (sauf électriciens industriels / électriciennes industrielles et de réseaux électriques),8900,74580.195
 7242,Électriciens industriels / électriciennes industrielles,3700,83711.453
-7243,Électriciens / électriciennes de réseaux électriques**,473.25021,100584.09
+7243,Électriciens / électriciennes de réseaux électriques**,473,100584.09
 7244,Monteurs / monteuses de lignes électriques et de câbles,1700,103332.12
 7245,Monteurs / monteuses de lignes et de câbles de télécommunications,1600,69538.344
 7246,Installateurs / installatrices et réparateurs / réparatrices de matériel de télécommunications,3200,64104.051
-7247,Techniciens / techniciennes en montage et en entretien d'installations de câblodistribution**,549.66876,60169.375
+7247,Techniciens / techniciennes en montage et en entretien d'installations de câblodistribution**,549,60169.375

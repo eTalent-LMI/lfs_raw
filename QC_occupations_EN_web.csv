@@ -1,5 +1,5 @@
 NOC,Occupation,Employment,Median_Wage
-15,"Senior managers - trade, broadcasting and other services**",195.89201,90001.602
+15,"Senior managers - trade, broadcasting and other services**",195,90001.602
 211,Engineering managers,3000,130000
 213,Computer and information systems managers,14500,119995.2
 601,Corporate sales managers,2400,102856
@@ -20,7 +20,7 @@ NOC,Occupation,Employment,Median_Wage
 2283,Information systems testing technicians,6500,58136
 4163,Business development officers and marketing researchers and consultants,11600,69992
 5223,Graphic arts technicians,6700,60008
-5224,Broadcast technicians**,326.12997,58240
+5224,Broadcast technicians**,326,58240
 5241,Graphic designers and illustrators,20700,60299.199
 7241,Electricians (except industrial and power system),15100,79040
 7242,Industrial electricians,5700,70720
@@ -28,4 +28,4 @@ NOC,Occupation,Employment,Median_Wage
 7244,Electrical power line and cable workers,2600,81120
 7245,Telecommunications line and cable workers,1500,64292.801
 7246,Telecommunications installation and repair workers,11500,57096
-7247,Cable television service and maintenance technicians*,1128.5295,55640
+7247,Cable television service and maintenance technicians*,1128,55640

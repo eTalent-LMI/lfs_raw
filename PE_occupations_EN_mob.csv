@@ -1,10 +1,10 @@
 NOC,Occupation,Employment,Median_Wage
 213,Computer and information systems managers,200,92622.398
-2147,Computer engineers*,27.952957,78686.398
+2147,Computer engineers*,27,78686.398
 2171,Information systems analysts and consultants,800,72009.602
 2172,Database analysts and data administrators,200,65395.199
 2173,Software engineers and designers,200,83844.797
 2174,Computer programmers and interactive media developers,700,62400
-2175,Web designers and developers*,65.260742,52312
-2281,Computer network technicians**,140.29231,50585.602
+2175,Web designers and developers*,65,52312
+2281,Computer network technicians**,140,50585.602
 2282,User support technicians,700,39312
