@@ -1,10 +1,10 @@
-NOC,Occupation,Employment,Median_Wage
-213,Computer and information systems managers,600,108804.8
-2147,Computer engineers**,239,108243.2
-2171,Information systems analysts and consultants,4000,89440
-2172,Database analysts and data administrators*,400,78728
-2173,Software engineers and designers*,313,100921.6
-2174,Computer programmers and interactive media developers,4100,74880
-2175,Web designers and developers**,189,62982.398
-2281,Computer network technicians,600,72009.602
-2282,User support technicians,2600,66976
+NOC,Occupation,Employment,Median_Wage,suffix
+213,Computer and information systems managers,600,108804.8,
+2147,Computer engineers**,239,108243.2,**
+2171,Information systems analysts and consultants,4000,89440,
+2172,Database analysts and data administrators*,400,78728,*
+2173,Software engineers and designers*,313,100921.6,*
+2174,Computer programmers and interactive media developers,4100,74880,
+2175,Web designers and developers**,189,62982.398,**
+2281,Computer network technicians,600,72009.602,
+2282,User support technicians,2600,66976,
