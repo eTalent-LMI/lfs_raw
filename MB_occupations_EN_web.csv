@@ -1,31 +1,31 @@
 NOC,Occupation,Employment,Median_Wage,suffix
 15,"Senior managers - trade, broadcasting and other services**",26,114400.01,**
 211,Engineering managers*,498,107827.2,*
-213,Computer and information systems managers,1600,100796.8,
+213,Computer and information systems managers,1400,100796.8,
 601,Corporate sales managers**,372,96012.797,**
-1123,"Professional occupations in advertising, marketing and public relations",5900,54392,
+1123,"Professional occupations in advertising, marketing and public relations",4800,54392,
 1253,Records management technicians**,117,50710.398,**
 2133,Electrical and electronics engineers,1400,98883.203,
 2147,Computer engineers**,223,92788.797,**
-2148,Other professional engineers,500,86548.797,
-2161,"Mathematicians, statisticians and actuaries*",149,89502.398,*
-2171,Information systems analysts and consultants,6200,85404.797,
-2172,Database analysts and data administrators,700,69992,
-2173,Software engineers and designers,1100,75004.797,
-2174,Computer programmers and interactive media developers,3400,75004.797,
-2175,Web designers and developers,1100,59238.398,
-2241,Electrical and electronics engineering technologists and technicians,1500,71572.797,
-2281,Computer network technicians,2200,69992,
-2282,User support technicians,3600,54995.199,
-2283,Information systems testing technicians**,185,62982.398,**
-4163,Business development officers and marketing researchers and consultants,900,69992,
+2148,Other professional engineers*,480,86548.797,*
+2161,"Mathematicians, statisticians and actuaries",600,89502.398,
+2171,Information systems analysts and consultants,5200,85404.797,
+2172,Database analysts and data administrators,1000,69992,
+2173,Software engineers and designers,1000,75004.797,
+2174,Computer programmers and interactive media developers,3900,75004.797,
+2175,Web designers and developers,1000,59238.398,
+2241,Electrical and electronics engineering technologists and technicians,1200,71572.797,
+2281,Computer network technicians,1600,69992,
+2282,User support technicians,2700,54995.199,
+2283,Information systems testing technicians*,185,62982.398,*
+4163,Business development officers and marketing researchers and consultants,500,69992,
 5223,Graphic arts technicians*,76,49524.801,*
 5224,Broadcast technicians*,42,46217.598,*
-5241,Graphic designers and illustrators,2000,50003.199,
-7241,Electricians (except industrial and power system),2600,68640,
-7242,Industrial electricians,2000,80080,
-7243,Power system electricians,600,97364.805,
-7244,Electrical power line and cable workers,700,94224,
+5241,Graphic designers and illustrators,2600,50003.199,
+7241,Electricians (except industrial and power system),3600,68640,
+7242,Industrial electricians,1100,80080,
+7243,Power system electricians,500,97364.805,
+7244,Electrical power line and cable workers,900,94224,
 7245,Telecommunications line and cable workers*,243,67288,*
-7246,Telecommunications installation and repair workers,1200,62816,
+7246,Telecommunications installation and repair workers,700,62816,
 7247,Cable television service and maintenance technicians**,209,58240,**

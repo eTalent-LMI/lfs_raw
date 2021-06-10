@@ -1,10 +1,10 @@
 CNP,Profession,Emploi,Salaire_médian,suffix
-213,Gestionnaires des systèmes informatiques,600,108804.8,
+213,Gestionnaires des systèmes informatiques,700,108804.8,
 2147,Ingénieurs informaticiens / ingénieures informaticiennes**,239,108243.2,**
-2171,Analystes et consultants / consultantes en informatique,4000,89440,
-2172,Analystes de bases de données et administrateurs / administratrices de données*,400,78728,*
+2171,Analystes et consultants / consultantes en informatique,3500,89440,
+2172,Analystes de bases de données et administrateurs / administratrices de données,500,78728,
 2173,Ingénieurs / ingénieures et concepteurs / conceptrices en logiciel*,313,100921.6,*
-2174,Programmeurs / programmeuses et développeurs / développeuses en médias interactifs,4100,74880,
-2175,Concepteurs / conceptrices et développeurs / développeuses Web**,189,62982.398,**
-2281,Techniciens / techniciennes de réseau informatique,600,72009.602,
-2282,Agents / agentes de soutien aux utilisateurs,2600,66976,
+2174,Programmeurs / programmeuses et développeurs / développeuses en médias interactifs,2600,74880,
+2175,Concepteurs / conceptrices et développeurs / développeuses Web,600,62982.398,
+2281,Techniciens / techniciennes de réseau informatique,1000,72009.602,
+2282,Agents / agentes de soutien aux utilisateurs,1500,66976,
