@@ -1,10 +1,10 @@
 NOC,Occupation,Employment,Median_Wage,suffix
-213,Computer and information systems managers,1400,100796.8,
-2147,Computer engineers**,223,92788.797,**
-2171,Information systems analysts and consultants,5200,85404.797,
-2172,Database analysts and data administrators,1000,69992,
-2173,Software engineers and designers,1000,75004.797,
-2174,Computer programmers and interactive media developers,3900,75004.797,
-2175,Web designers and developers,1000,59238.398,
-2281,Computer network technicians,1600,69992,
-2282,User support technicians,2700,54995.199,
+213,"Computer and information systems managers ^<span style=""text-decoration: underline;"">[NOC 0213](https://www.etalentcanada.ca/job-market-information/computer-and-information-systems-managers/)</span>^",1400,100796.8,
+2147,"Computer engineers&nbsp;‡ ^<span style=""text-decoration: underline;"">[NOC 2147](https://www.etalentcanada.ca/job-market-information/computer-engineers-except-software-engineers-and-designers/)</span>^",223,92788.797,**
+2171,"Information systems analysts and consultants ^<span style=""text-decoration: underline;"">[NOC 2171](https://www.etalentcanada.ca/job-market-information/information-systems-analysts-and-consultants/)</span>^",5200,85404.797,
+2172,"Database analysts and data administrators ^<span style=""text-decoration: underline;"">[NOC 2172](https://www.etalentcanada.ca/job-market-information/database-analysts-and-data-administrators/)</span>^",1000,69992,
+2173,"Software engineers and designers ^<span style=""text-decoration: underline;"">[NOC 2173](https://www.etalentcanada.ca/job-market-information/software-engineers-and-designers/)</span>^",1000,75004.797,
+2174,"Computer programmers and interactive media developers ^<span style=""text-decoration: underline;"">[NOC 2174](https://www.etalentcanada.ca/job-market-information/computer-programmers-and-interactive-media-developers/)</span>^",3900,75004.797,
+2175,"Web designers and developers ^<span style=""text-decoration: underline;"">[NOC 2175](https://www.etalentcanada.ca/job-market-information/web-designers-and-developers/)</span>^",1000,59238.398,
+2281,"Computer network technicians ^<span style=""text-decoration: underline;"">[NOC 2281](https://www.etalentcanada.ca/job-market-information/computer-network-technicians/)</span>^",1600,69992,
+2282,"User support technicians ^<span style=""text-decoration: underline;"">[NOC 2282](https://www.etalentcanada.ca/job-market-information/user-support-technicians/)</span>^",2700,54995.199,
