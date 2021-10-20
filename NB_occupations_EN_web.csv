@@ -3,29 +3,29 @@ NOC,Occupation,Employment,Median_Wage,suffix
 211,"Engineering managers&nbsp;† ^<span style=""text-decoration: underline;"">[NOC 0211](https://www.etalentcanada.ca/job-market-information/engineering-managers/)</span>^",330,93995.203,*
 213,"Computer and information systems managers ^<span style=""text-decoration: underline;"">[NOC 0213](https://www.etalentcanada.ca/job-market-information/computer-and-information-systems-managers/)</span>^",1800,100796.8,
 601,Corporate sales managers&nbsp;† ^NOC 0601^,262,87256,*
-1123,"Professional occupations in advertising, marketing and public relations ^NOC 1123^",2700,55910.398,
+1123,"Professional occupations in advertising, marketing and public relations ^NOC 1123^",1600,55910.398,
 1253,Records management technicians&nbsp;‡ ^NOC 1253^,103,49462.398,**
-2133,"Electrical and electronics engineers ^<span style=""text-decoration: underline;"">[NOC 2133](https://www.etalentcanada.ca/job-market-information/electrical-and-electronics-engineers/)</span>^",500,91312,
-2147,"Computer engineers ^<span style=""text-decoration: underline;"">[NOC 2147](https://www.etalentcanada.ca/job-market-information/computer-engineers-except-software-engineers-and-designers/)</span>^",700,85113.602,
+2133,"Electrical and electronics engineers ^<span style=""text-decoration: underline;"">[NOC 2133](https://www.etalentcanada.ca/job-market-information/electrical-and-electronics-engineers/)</span>^",600,91312,
+2147,"Computer engineers&nbsp;† ^<span style=""text-decoration: underline;"">[NOC 2147](https://www.etalentcanada.ca/job-market-information/computer-engineers-except-software-engineers-and-designers/)</span>^",133,85113.602,*
 2148,Other professional engineers&nbsp;† ^NOC 2148^,438,79372.797,*
 2161,"Mathematicians, statisticians and actuaries&nbsp;‡ ^NOC 2161^",116,88337.602,**
-2171,"Information systems analysts and consultants ^<span style=""text-decoration: underline;"">[NOC 2171](https://www.etalentcanada.ca/job-market-information/information-systems-analysts-and-consultants/)</span>^",4100,79996.797,
-2172,"Database analysts and data administrators ^<span style=""text-decoration: underline;"">[NOC 2172](https://www.etalentcanada.ca/job-market-information/database-analysts-and-data-administrators/)</span>^",1100,73798.398,
-2173,"Software engineers and designers&nbsp;† ^<span style=""text-decoration: underline;"">[NOC 2173](https://www.etalentcanada.ca/job-market-information/software-engineers-and-designers/)</span>^",534,94619.203,*
-2174,"Computer programmers and interactive media developers ^<span style=""text-decoration: underline;"">[NOC 2174](https://www.etalentcanada.ca/job-market-information/computer-programmers-and-interactive-media-developers/)</span>^",2100,78353.602,
+2171,"Information systems analysts and consultants ^<span style=""text-decoration: underline;"">[NOC 2171](https://www.etalentcanada.ca/job-market-information/information-systems-analysts-and-consultants/)</span>^",3500,79996.797,
+2172,"Database analysts and data administrators ^<span style=""text-decoration: underline;"">[NOC 2172](https://www.etalentcanada.ca/job-market-information/database-analysts-and-data-administrators/)</span>^",1400,73798.398,
+2173,"Software engineers and designers&nbsp;‡ ^<span style=""text-decoration: underline;"">[NOC 2173](https://www.etalentcanada.ca/job-market-information/software-engineers-and-designers/)</span>^",534,94619.203,**
+2174,"Computer programmers and interactive media developers ^<span style=""text-decoration: underline;"">[NOC 2174](https://www.etalentcanada.ca/job-market-information/computer-programmers-and-interactive-media-developers/)</span>^",1900,78353.602,
 2175,"Web designers and developers&nbsp;† ^<span style=""text-decoration: underline;"">[NOC 2175](https://www.etalentcanada.ca/job-market-information/web-designers-and-developers/)</span>^",207,59051.199,*
 2241,"Electrical and electronics engineering technologists and technicians&nbsp;† ^<span style=""text-decoration: underline;"">[NOC 2241](https://www.etalentcanada.ca/job-market-information/electrical-and-electronics-engineering-technologists-and-technicians/)</span>^",269,60652.801,*
-2281,"Computer network technicians ^<span style=""text-decoration: underline;"">[NOC 2281](https://www.etalentcanada.ca/job-market-information/computer-network-technicians/)</span>^",1700,54995.199,
-2282,"User support technicians ^<span style=""text-decoration: underline;"">[NOC 2282](https://www.etalentcanada.ca/job-market-information/user-support-technicians/)</span>^",3200,49920,
-2283,"Information systems testing technicians&nbsp;† ^<span style=""text-decoration: underline;"">[NOC 2283](https://www.etalentcanada.ca/job-market-information/information-systems-testing-technicians/)</span>^",324,51480,*
+2281,"Computer network technicians ^<span style=""text-decoration: underline;"">[NOC 2281](https://www.etalentcanada.ca/job-market-information/computer-network-technicians/)</span>^",1500,54995.199,
+2282,"User support technicians ^<span style=""text-decoration: underline;"">[NOC 2282](https://www.etalentcanada.ca/job-market-information/user-support-technicians/)</span>^",2400,49920,
+2283,"Information systems testing technicians&nbsp;‡ ^<span style=""text-decoration: underline;"">[NOC 2283](https://www.etalentcanada.ca/job-market-information/information-systems-testing-technicians/)</span>^",324,51480,**
 4163,Business development officers and marketing researchers and consultants&nbsp;† ^NOC 4163^,305,63710.398,*
 5223,"Graphic arts technicians&nbsp;‡ ^<span style=""text-decoration: underline;"">[NOC 5223](https://www.etalentcanada.ca/job-market-information/graphic-arts-technicians/)</span>^",24,44574.402,**
 5224,Broadcast technicians&nbsp;‡ ^NOC 5224^,21,41600,**
-5241,"Graphic designers and illustrators&nbsp;† ^<span style=""text-decoration: underline;"">[NOC 5241](https://www.etalentcanada.ca/job-market-information/graphic-designers-and-illustrators/)</span>^",413,40809.602,*
-7241,Electricians (except industrial and power system) ^NOC 7241^,2500,47840,
-7242,Industrial electricians ^NOC 7242^,600,65291.199,
+5241,"Graphic designers and illustrators ^<span style=""text-decoration: underline;"">[NOC 5241](https://www.etalentcanada.ca/job-market-information/graphic-designers-and-illustrators/)</span>^",500,40809.602,
+7241,Electricians (except industrial and power system) ^NOC 7241^,1700,47840,
+7242,Industrial electricians ^NOC 7242^,700,65291.199,
 7243,Power system electricians&nbsp;† ^NOC 7243^,152,76585.602,*
 7244,Electrical power line and cable workers ^NOC 7244^,800,74131.203,
 7245,Telecommunications line and cable workers&nbsp;‡ ^NOC 7245^,199,52936,**
-7246,Telecommunications installation and repair workers&nbsp;† ^NOC 7246^,315,49420.801,*
+7246,Telecommunications installation and repair workers ^NOC 7246^,500,49420.801,
 7247,Cable television service and maintenance technicians&nbsp;‡ ^NOC 7247^,154,45822.398,**
