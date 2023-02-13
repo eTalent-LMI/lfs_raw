@@ -1,11 +1,11 @@
 Province,Population,GDP,Employment,Average_Salary,links_en,DE_pct
-Alberta,4601314,3.23E+11,216799.98,85319.938,https://etalentcanada.ca/locations/alberta,9.7596111
-British Columbia,5368266,2.63E+11,303700,80200.141,https://etalentcanada.ca/locations/british-columbia,13.671559
-Manitoba,1420228,62187400000,49300.004,71616.906,https://etalentcanada.ca/locations/manitoba,2.2193215
-New Brunswick,820786,31937100000,28900,70975.789,https://etalentcanada.ca/locations/new-brunswick,1.3009814
-Newfoundland and Labrador,528818,30668100000,16000,71966.109,https://etalentcanada.ca/locations/newfoundland-and-labrador,0.72026652
-Nova Scotia,1030953,38999500000,45500,68033.266,https://etalentcanada.ca/locations/nova-scotia,2.0482578
-Ontario,15262660,7.52E+11,1046199.9,83622.242,https://etalentcanada.ca/locations/ontario,47.096424
-Prince Edward Island,172707,6359500000,6800,61163.734,https://etalentcanada.ca/locations/prince-edward-island,0.30611327
-Québec,8751352,3.81E+11,473900,77187.266,https://etalentcanada.ca/locations/quebec,21.333393
-Saskatchewan,1205119,77412900000,34000,76916.086,https://etalentcanada.ca/locations/saskatchewan,1.5305663
+Alberta,4601314,322865000000,29600,83820.484,https://etalentcanada.ca/locations/alberta,1233.3333
+British Columbia,5368266,262593000000,1344500,85230.703,https://etalentcanada.ca/locations/british-columbia,56020.832
+Manitoba,1420228,62187400000,8700,69240.039,https://etalentcanada.ca/locations/manitoba,362.49997
+New Brunswick,820786,31937100000,,,https://etalentcanada.ca/locations/new-brunswick,
+Newfoundland and Labrador,528818,30668100000,,,https://etalentcanada.ca/locations/newfoundland-and-labrador,
+Nova Scotia,1030953,38999500000,,,https://etalentcanada.ca/locations/nova-scotia,
+Ontario,15262660,752341000000,,,https://etalentcanada.ca/locations/ontario,
+Prince Edward Island,172707,6359500000,,,https://etalentcanada.ca/locations/prince-edward-island,
+Québec,8751352,381260000000,,,https://etalentcanada.ca/locations/quebec,
+Saskatchewan,1205119,77412900000,,,https://etalentcanada.ca/locations/saskatchewan,
