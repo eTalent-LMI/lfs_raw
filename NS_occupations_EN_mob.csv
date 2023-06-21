@@ -1,11 +1,11 @@
-NOC,Occupation,Employment,Median_Wage,suffix
-,,"<span style=""font-size:80%;"">_Dec 2022_</span>","<span style=""font-size:80%;"">_2021_</span>",
-213,"Computer and information systems managers ^<span style=""text-decoration: underline;"">[NOC 0213](https://www.etalentcanada.ca/job-market-information/computer-and-information-systems-managers/)</span>^",1900,97843.2,
-2147,"Computer engineers ^<span style=""text-decoration: underline;"">[NOC 2147](https://www.etalentcanada.ca/job-market-information/computer-engineers-except-software-engineers-and-designers/)</span>^",500,75046.4,
-2171,"Information systems analysts and consultants ^<span style=""text-decoration: underline;"">[NOC 2171](https://www.etalentcanada.ca/job-market-information/information-systems-analysts-and-consultants/)</span>^",3500,78000,
-2172,"Database analysts and data administrators ^<span style=""text-decoration: underline;"">[NOC 2172](https://www.etalentcanada.ca/job-market-information/database-analysts-and-data-administrators/)</span>^",1100,67267.2,
-2173,"Software engineers and designers ^<span style=""text-decoration: underline;"">[NOC 2173](https://www.etalentcanada.ca/job-market-information/software-engineers-and-designers/)</span>^",800,78936,
-2174,"Computer programmers and interactive media developers ^<span style=""text-decoration: underline;"">[NOC 2174](https://www.etalentcanada.ca/job-market-information/computer-programmers-and-interactive-media-developers/)</span>^",5000,67641.6,
-2175,"Web designers and developers&nbsp;† ^<span style=""text-decoration: underline;"">[NOC 2175](https://www.etalentcanada.ca/job-market-information/web-designers-and-developers/)</span>^",460,53809.6,*
-2281,"Computer network technicians ^<span style=""text-decoration: underline;"">[NOC 2281](https://www.etalentcanada.ca/job-market-information/computer-network-technicians/)</span>^",2800,52873.6,
-2282,"User support technicians ^<span style=""text-decoration: underline;"">[NOC 2282](https://www.etalentcanada.ca/job-market-information/user-support-technicians/)</span>^",2000,45760,
+Occupation,"Employment <br><i style=""font-size:80%;"">May 2023</i>","Median Income <br><i style=""font-size:80%;"">2021</i>"
+Other customer and information services representatives ^NOC 64409^,7.5,28800.0
+"Professional occupations in advertising, marketing and public relations ^NOC 11202^",5.0,47200.0
+"Information systems specialists ^<span style=""text-decoration: underline;"">[NOC 21222](https://etalentcanada.ca/careers/information-systems-specialists)</span>^",4.2,72000.0
+Electricians (except industrial and power system) ^NOC 72200^,3.5,44000.0
+"Software developers and programmers ^<span style=""text-decoration: underline;"">[NOC 21232](https://etalentcanada.ca/careers/software-developers-and-programmers)</span>^",2.5,66000.0
+"Computer and information systems managers ^<span style=""text-decoration: underline;"">[NOC 20012](https://etalentcanada.ca/careers/computer-and-information-systems-managers)</span>^",1.9,96000.0
+"Software engineers and designers ^<span style=""text-decoration: underline;"">[NOC 21231](https://etalentcanada.ca/careers/software-engineers-and-designers)</span>^",1.9,81000.0
+"User support technicians ^<span style=""text-decoration: underline;"">[NOC 22221](https://etalentcanada.ca/careers/user-support-technicians)</span>^",1.9,45600.0
+"Graphic designers and illustrators ^<span style=""text-decoration: underline;"">[NOC 52120](https://etalentcanada.ca/careers/graphic-designers-and-illustrators)</span>^",1.6,38400.0
+"Web developers and programmers ^<span style=""text-decoration: underline;"">[NOC 21234](https://etalentcanada.ca/careers/web-developers-and-programmers)</span>^",1.4,55200.0

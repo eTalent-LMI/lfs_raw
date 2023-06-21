@@ -1,32 +1,21 @@
-CNP,Profession,Emploi,Salaire_médian,suffix
-,,"<span style=""font-size:80%;"">_déc. 2022_</span>","<span style=""font-size:80%;"">_2021_</span>",
-15,"Cadres supérieurs / cadres supérieures commerce, radiotélédiffusion et autres services&nbsp;‡ ^<span style=""text-decoration: underline;"">[CNP 0015](https://www.etalentcanada.ca/fr/marche-du-travail/cadres-superieurs-cadres-superieures-commerce-radiotelediffusion-autres-services/)</span>^",217,90001.6,**
-211,"Directeurs / directrices des services de génie ^<span style=""text-decoration: underline;"">[CNP 0211](https://www.etalentcanada.ca/fr/marche-du-travail/directeurs-de-lingenierie/)</span>^",5300,130000,
-213,"Gestionnaires des systèmes informatiques ^<span style=""text-decoration: underline;"">[CNP 0213](https://www.etalentcanada.ca/fr/marche-du-travail/responsables-de-linformatique-et-des-systemes-dinformation/)</span>^",16800,119995.2,
-601,Directeurs / directrices des ventes corporatives ^CNP 0601^,5800,102856,
-1123,"Professionnels / professionnelles en publicité, en marketing et en relations publiques ^CNP 1123^",37000,65005.55,
-1253,Techniciens / techniciennes à la gestion des documents ^CNP 1253^,5600,49920,
-2133,"Ingénieurs électriciens et électroniciens / ingénieures électriciennes et électroniciennes ^<span style=""text-decoration: underline;"">[CNP 2133](https://www.etalentcanada.ca/fr/marche-du-travail/ingenieurs-electriques-et-electroniques/)</span>^",13000,94827.2,
-2147,"Ingénieurs informaticiens / ingénieures informaticiennes ^<span style=""text-decoration: underline;"">[CNP 2147](https://www.etalentcanada.ca/fr/marche-du-travail/ingenieurs-en-informatique-sauf-les-ingenieurs-et-les-concepteurs-de-logiciels/)</span>^",3600,95992,
-2148,Autres ingénieurs / ingénieures ^CNP 2148^,7700,90667.2,
-2161,"Mathématiciens / mathématiciennes, statisticiens / statisticiennes et actuaires ^CNP 2161^",7600,97136,
-2171,"Analystes et consultants / consultantes en informatique ^<span style=""text-decoration: underline;"">[CNP 2171](https://www.etalentcanada.ca/fr/marche-du-travail/analystes-et-consultants-en-systemes-dinformation/)</span>^",61200,85366.26,
-2172,"Analystes de bases de données et administrateurs / administratrices de données ^<span style=""text-decoration: underline;"">[CNP 2172](https://www.etalentcanada.ca/fr/marche-du-travail/analystes-de-bases-de-donnees-et-administrateurs-de-donnees/)</span>^",11400,67216.38,
-2173,"Ingénieurs / ingénieures et concepteurs / conceptrices en logiciel ^<span style=""text-decoration: underline;"">[CNP 2173](https://www.etalentcanada.ca/fr/marche-du-travail/ingenieurs-et-concepteurs-de-logiciels/)</span>^",16200,91744.04,
-2174,"Programmeurs / programmeuses et développeurs / développeuses en médias interactifs ^<span style=""text-decoration: underline;"">[CNP 2174](https://www.etalentcanada.ca/fr/marche-du-travail/programmeurs-et-developpeurs-de-medias-interactifs/)</span>^",43100,72820.71,
-2175,"Concepteurs / conceptrices et développeurs / développeuses Web ^<span style=""text-decoration: underline;"">[CNP 2175](https://www.etalentcanada.ca/fr/marche-du-travail/concepteurs-et-developpeurs-web/)</span>^",11600,64490.82,
-2241,"Technologues et techniciens / techniciennes en génie électronique et électrique ^<span style=""text-decoration: underline;"">[CNP 2241](https://www.etalentcanada.ca/fr/marche-du-travail/technologues-et-techniciens-en-genie-electrique-et-electronique/)</span>^",9800,68536,
-2281,"Techniciens / techniciennes de réseau informatique ^<span style=""text-decoration: underline;"">[CNP 2281](https://www.etalentcanada.ca/fr/marche-du-travail/techniciens-de-reseaux-informatiques/)</span>^",18900,63440,
-2282,"Agents / agentes de soutien aux utilisateurs ^<span style=""text-decoration: underline;"">[CNP 2282](https://www.etalentcanada.ca/fr/marche-du-travail/techniciens-de-soutien-aux-utilisateurs/)</span>^",18200,54995.2,
-2283,"Évaluateurs / évaluatrices de systèmes informatiques ^<span style=""text-decoration: underline;"">[CNP 2283](https://www.etalentcanada.ca/fr/marche-du-travail/techniciens-en-essais-de-systemes-dinformation/)</span>^",4000,58136,
-4163,"Agents / agentes de développement économique, recherchistes et experts-conseils / expertes-conseils en marketing ^CNP 4163^",15000,69992,
-5223,"Techniciens / techniciennes en graphisme ^<span style=""text-decoration: underline;"">[CNP 5223](https://www.etalentcanada.ca/fr/marche-du-travail/techniciens-en-arts-graphiques/)</span>^",9100,60008,
-5224,Techniciens / techniciennes en radiotélédiffusion&nbsp;† ^CNP 5224^,333,58240,*
-5241,"Designers graphiques et illustrateurs / illustratrices ^<span style=""text-decoration: underline;"">[CNP 5241](https://www.etalentcanada.ca/fr/marche-du-travail/concepteurs-graphiques-et-illustrateurs/)</span>^",17300,60299.2,
-7241,Électriciens / électriciennes (sauf électriciens industriels / électriciennes industrielles et de réseaux électriques) ^CNP 7241^,24100,79040,
-7242,Électriciens industriels / électriciennes industrielles ^CNP 7242^,1700,70720,
-7243,Électriciens / électriciennes de réseaux électriques&nbsp;† ^CNP 7243^,1606,87360,*
-7244,Monteurs / monteuses de lignes électriques et de câbles ^CNP 7244^,2500,81120,
-7245,Monteurs / monteuses de lignes et de câbles de télécommunications ^CNP 7245^,3700,64292.8,
-7246,Installateurs / installatrices et réparateurs / réparatrices de matériel de télécommunications ^CNP 7246^,5900,57096,
-7247,Techniciens / techniciennes en montage et en entretien d'installations de câblodistribution&nbsp;† ^CNP 7247^,1170,55640,*
+Profession,"Emploi <br><i style=""font-size:80%;"">May 2023</i>","Salaire médian <br><i style=""font-size:80%;"">2021</i>"
+"Spécialistes en informatique ^<span style=""text-decoration: underline;"">[CNP 21222](https://etalentcanada.ca/fr/carrieres/specialistes-en-informatique)</span>^",53.0,81000.0
+"Agents/agentes de soutien aux utilisateurs ^<span style=""text-decoration: underline;"">[CNP 22221](https://etalentcanada.ca/fr/carrieres/agentsagentes-de-soutien-aux-utilisateurs)</span>^",43.9,49200.0
+"Professionnels/professionnelles en publicité, en marketing et en relations publiques ^CNP 11202^",40.7,49600.0
+Autres préposés/préposées aux services d'information et aux services à la clientèle ^CNP 64409^,37.4,31600.0
+"Designers graphiques et illustrateurs/illustratrices ^<span style=""text-decoration: underline;"">[CNP 52120](https://etalentcanada.ca/fr/carrieres/designers-graphiques-et-illustrateursillustratrices)</span>^",29.4,39600.0
+"Développeurs/développeuses et programmeurs/programmeuses de systèmes informatiques ^<span style=""text-decoration: underline;"">[CNP 21230](https://etalentcanada.ca/fr/carrieres/developpeursdeveloppeuses-et-programmeursprogrammeuses-de-systemes-informatiques)</span>^",24.6,68500.0
+"Développeurs/développeuses et programmeurs/programmeuses de logiciels ^<span style=""text-decoration: underline;"">[CNP 21232](https://etalentcanada.ca/fr/carrieres/developpeursdeveloppeuses-et-programmeursprogrammeuses-de-logiciels)</span>^",18.4,76500.0
+"Gestionnaires des systèmes informatiques ^<span style=""text-decoration: underline;"">[CNP 20012](https://etalentcanada.ca/fr/carrieres/gestionnaires-des-systemes-informatiques)</span>^",15.7,104000.0
+Électriciens/électriciennes (sauf électriciens industriels/électriciennes industrielles et de réseaux électriques) ^CNP 72200^,14.9,58000.0
+"Directeurs/directrices de la publicité, du marketing et des relations publiques ^CNP 10022^",13.8,73000.0
+"Techniciens/techniciennes de réseau informatique et Web ^<span style=""text-decoration: underline;"">[CNP 22220](https://etalentcanada.ca/fr/carrieres/technicienstechniciennes-de-reseau-informatique-et-web)</span>^",13.4,59600.0
+"Ingénieurs/ingénieures et concepteurs/conceptrices en logiciel ^<span style=""text-decoration: underline;"">[CNP 21231](https://etalentcanada.ca/fr/carrieres/ingenieursingenieures-et-concepteursconceptrices-en-logiciel)</span>^",13.2,88000.0
+"Technologues et techniciens/techniciennes en génie électrique et électronique ^<span style=""text-decoration: underline;"">[CNP 22310](https://etalentcanada.ca/fr/carrieres/technologues-et-technicienstechniciennes-en-genie-electrique-et-electronique)</span>^",13.1,65000.0
+Agents/agentes de développement économique et recherchistes et analystes en marketing ^CNP 41402^,11.7,58000.0
+"Scientifiques de données ^<span style=""text-decoration: underline;"">[CNP 21211](https://etalentcanada.ca/fr/carrieres/scientifiques-de-donnees)</span>^",10.3,77000.0
+"Développeurs/développeuses et programmeurs/programmeuses Web ^<span style=""text-decoration: underline;"">[CNP 21234](https://etalentcanada.ca/fr/carrieres/developpeursdeveloppeuses-et-programmeursprogrammeuses-web)</span>^",9.6,54800.0
+"Ingénieurs informaticiens/ingénieures informaticiennes (sauf ingénieurs/ingénieures et concepteurs/conceptrices en logiciel) ^<span style=""text-decoration: underline;"">[CNP 21311](https://etalentcanada.ca/fr/carrieres/ingenieurs-informaticiensingenieures-informaticiennes-sauf-ingenieursingenieures-et)</span>^",9.0,97000.0
+"Spécialistes de la cybersécurité ^<span style=""text-decoration: underline;"">[CNP 21220](https://etalentcanada.ca/fr/carrieres/specialistes-de-la-cybersecurite)</span>^",8.8,89000.0
+"Techniciens/techniciennes en graphisme ^<span style=""text-decoration: underline;"">[CNP 52111](https://etalentcanada.ca/fr/carrieres/technicienstechniciennes-en-graphisme)</span>^",8.5,46000.0
+Directeurs/directrices des ventes corporatives ^CNP 60010^,6.8,93000.0
