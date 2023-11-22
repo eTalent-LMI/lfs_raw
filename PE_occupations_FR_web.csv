@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Profession,"Emploi <br><i style=""font-size:80%;"">October 2023</i>","Salaire m�dian <br><i style=""font-size:80%;"">2021</i>"
 "Sp�cialistes en informatique ^<span style=""text-decoration: underline;"">[CNP 21222](https://etalentcanada.ca/fr/carrieres/specialistes-en-informatique)</span>^",0.8,72500.0
 �lectriciens/�lectriciennes (sauf �lectriciens industriels/�lectriciennes industrielles et de r�seaux �lectriques) ^CNP 72200^,0.8,40800.0
@@ -13,3 +14,19 @@ Autres pr�pos�s/pr�pos�es aux services d'information et aux services � la client
 "Analystes de bases de donn�es et administrateurs/administratrices de donn�es ^<span style=""text-decoration: underline;"">[CNP 21223](https://etalentcanada.ca/fr/carrieres/analystes-de-bases-de-donnees-et-administrateursadministratrices-de-donnees)</span>^",0.2,67000.0
 Agents/agentes de d�veloppement �conomique et recherchistes et analystes en marketing ^CNP 41402^,0.2,65000.0
 "Designers graphiques et illustrateurs/illustratrices ^<span style=""text-decoration: underline;"">[CNP 52120](https://etalentcanada.ca/fr/carrieres/designers-graphiques-et-illustrateursillustratrices)</span>^",0.2,36000.0
+=======
+Profession,"Emploi <br><i style=""font-size:80%;"">May 2023</i>","Salaire médian <br><i style=""font-size:80%;"">2021</i>"
+"Agents/agentes de soutien aux utilisateurs ^<span style=""text-decoration: underline;"">[CNP 22221](https://etalentcanada.ca/fr/carrieres/agentsagentes-de-soutien-aux-utilisateurs)</span>^",0.8,38000.0
+"Spécialistes en informatique ^<span style=""text-decoration: underline;"">[CNP 21222](https://etalentcanada.ca/fr/carrieres/specialistes-en-informatique)</span>^",0.7,72500.0
+Autres préposés/préposées aux services d'information et aux services à la clientèle ^CNP 64409^,0.7,27600.0
+Électriciens/électriciennes (sauf électriciens industriels/électriciennes industrielles et de réseaux électriques) ^CNP 72200^,0.6,40800.0
+"Professionnels/professionnelles en publicité, en marketing et en relations publiques ^CNP 11202^",0.5,51200.0
+"Développeurs/développeuses et programmeurs/programmeuses de logiciels ^<span style=""text-decoration: underline;"">[CNP 21232](https://etalentcanada.ca/fr/carrieres/developpeursdeveloppeuses-et-programmeursprogrammeuses-de-logiciels)</span>^",0.5,60000.0
+"Directeurs/directrices de la publicité, du marketing et des relations publiques ^CNP 10022^",0.3,55200.0
+"Développeurs/développeuses et programmeurs/programmeuses de systèmes informatiques ^<span style=""text-decoration: underline;"">[CNP 21230](https://etalentcanada.ca/fr/carrieres/developpeursdeveloppeuses-et-programmeursprogrammeuses-de-systemes-informatiques)</span>^",0.3,59600.0
+"Ingénieurs électriciens et électroniciens/ingénieures électriciennes et électroniciennes ^<span style=""text-decoration: underline;"">[CNP 21310](https://etalentcanada.ca/fr/carrieres/ingenieurs-electriciens-et-electroniciensingenieures-electriciennes-et-electroniciennes)</span>^",0.2,56400.0
+"Ingénieurs informaticiens/ingénieures informaticiennes (sauf ingénieurs/ingénieures et concepteurs/conceptrices en logiciel) ^<span style=""text-decoration: underline;"">[CNP 21311](https://etalentcanada.ca/fr/carrieres/ingenieurs-informaticiensingenieures-informaticiennes-sauf-ingenieursingenieures-et)</span>^",0.2,79000.0
+"Techniciens/techniciennes de réseau informatique et Web ^<span style=""text-decoration: underline;"">[CNP 22220](https://etalentcanada.ca/fr/carrieres/technicienstechniciennes-de-reseau-informatique-et-web)</span>^",0.2,54400.0
+Monteurs/monteuses de lignes électriques et de câbles ^CNP 72203^,0.2,84000.0
+Techniciens/techniciennes en installation de matériel de télécommunication et en services de câblodistribution ^CNP 72205^,0.2,56000.0
+>>>>>>> parent of 720dbf9 (Add files via upload)
