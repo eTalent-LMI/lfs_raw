@@ -1,11 +1,11 @@
 Province,Population,GDP,Employment,Average_Salary,links_en,DE_pct
-Alberta,4601314,3.23E+11,216799.98,85319.938,https://etalentcanada.ca/locations/alberta,9.7596111
-British Columbia,5368266,2.63E+11,303700,80200.141,https://etalentcanada.ca/locations/british-columbia,13.671559
-Manitoba,1420228,62187400000,49300.004,71616.906,https://etalentcanada.ca/locations/manitoba,2.2193215
-New Brunswick,820786,31937100000,28900,70975.789,https://etalentcanada.ca/locations/new-brunswick,1.3009814
-Newfoundland and Labrador,528818,30668100000,16000,71966.109,https://etalentcanada.ca/locations/newfoundland-and-labrador,0.72026652
-Nova Scotia,1030953,38999500000,45500,68033.266,https://etalentcanada.ca/locations/nova-scotia,2.0482578
-Ontario,15262660,7.52E+11,1046199.9,83622.242,https://etalentcanada.ca/locations/ontario,47.096424
-Prince Edward Island,172707,6359500000,6800,61163.734,https://etalentcanada.ca/locations/prince-edward-island,0.30611327
-Québec,8751352,3.81E+11,473900,77187.266,https://etalentcanada.ca/locations/quebec,21.333393
-Saskatchewan,1205119,77412900000,34000,76916.086,https://etalentcanada.ca/locations/saskatchewan,1.5305663
+Alberta,4695290,331488800000.0,227100.0,85319.938,https://etalentcanada.ca/locations/alberta,9.111699566682715
+British Columbia,5519013,299250400000.0,340299.99999999994,80200.141,https://etalentcanada.ca/locations/british-columbia,12.053697931425331
+Manitoba,1454902,68483200000.0,64500.0,71616.906,https://etalentcanada.ca/locations/manitoba,9.17105076069956
+New Brunswick,834691,34329699999.999996,38500.00000000001,70975.789,https://etalentcanada.ca/locations/new-brunswick,9.818923743942873
+Newfoundland and Labrador,538605,29690100000.0,19800.0,71966.109,https://etalentcanada.ca/locations/newfoundland-and-labrador,8.232848232848234
+Nova Scotia,1058694,43188400000.0,53900.00000000001,68033.266,https://etalentcanada.ca/locations/nova-scotia,10.664819944598339
+Ontario,15608369,839497400000.0,1171400.0,83622.242,https://etalentcanada.ca/locations/ontario,14.748876270098082
+Prince Edward Island,173787,7109900000.0,7700.0,61163.734,https://etalentcanada.ca/locations/prince-edward-island,8.288482238966631
+Québec,8874683,428252200000.0,559800.0000000001,77187.266,https://etalentcanada.ca/locations/quebec,12.331482950039653
+Saskatchewan,1209107,76672900000.0,43200.0,76916.086,https://etalentcanada.ca/locations/saskatchewan,7.136956880885512
