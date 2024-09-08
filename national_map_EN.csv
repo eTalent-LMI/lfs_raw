@@ -1,11 +1,11 @@
 Province,Population,GDP,Employment,Average_Salary,links_en,DE_pct
-Alberta,4849906,336299900000.0,248400.0,85319.938,https://etalentcanada.ca/locations/alberta,9.66123449107386
-British Columbia,5646467,304127200000.0,360100.0,80200.141,https://etalentcanada.ca/locations/british-columbia,14.005678503364319
-Manitoba,1484135,69389600000.0,56100.0,71616.906,https://etalentcanada.ca/locations/manitoba,2.181945470810159
-New Brunswick,850894,34792000000.0,41700.0,70975.789,https://etalentcanada.ca/locations/new-brunswick,1.6218739061102252
-Newfoundland and Labrador,541391,28950200000.0,20800.000000000004,71966.109,https://etalentcanada.ca/locations/newfoundland-and-labrador,0.8089922601221269
-Nova Scotia,1072545,43765100000.0,52700.0,68033.266,https://etalentcanada.ca/locations/nova-scotia,2.049706351367119
-Ontario,15996989,852729200000.0,1221000.0,83622.242,https://etalentcanada.ca/locations/ontario,47.489401423515226
-Prince Edward Island,177081,7267100000.0,6700.0,61163.734,https://etalentcanada.ca/locations/prince-edward-island,0.2605888530201081
-Québec,9030684,429218600000.0,514700.00000000006,77187.266,https://etalentcanada.ca/locations/quebec,20.018669052156667
-Saskatchewan,1231043,77898600000.0,48899.99999999999,76916.086,https://etalentcanada.ca/locations/saskatchewan,1.9019096884601918
+Alberta,4849906,336299900000.0,0.0,85319.938,https://etalentcanada.ca/locations/alberta,
+British Columbia,5646467,304127200000.0,0.0,80200.141,https://etalentcanada.ca/locations/british-columbia,
+Manitoba,1484135,69389600000.0,0.0,71616.906,https://etalentcanada.ca/locations/manitoba,
+New Brunswick,850894,34792000000.0,0.0,70975.789,https://etalentcanada.ca/locations/new-brunswick,
+Newfoundland and Labrador,541391,28950200000.0,0.0,71966.109,https://etalentcanada.ca/locations/newfoundland-and-labrador,
+Nova Scotia,1072545,43765100000.0,0.0,68033.266,https://etalentcanada.ca/locations/nova-scotia,
+Ontario,15996989,852729200000.0,0.0,83622.242,https://etalentcanada.ca/locations/ontario,
+Prince Edward Island,177081,7267100000.0,0.0,61163.734,https://etalentcanada.ca/locations/prince-edward-island,
+Québec,9030684,429218600000.0,0.0,77187.266,https://etalentcanada.ca/locations/quebec,
+Saskatchewan,1231043,77898600000.0,0.0,76916.086,https://etalentcanada.ca/locations/saskatchewan,
